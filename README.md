@@ -16,7 +16,7 @@ The last element to be pushed to the stack is the first on to be popped/removed 
 } 
 ``` 
 
-the above is a constructor function which can be called to create a Stack.
+Above is a constructor function which can be called to create a Stack.
 
 ##  Stack Methods
 
